@@ -1,3 +1,6 @@
+>[!NOTE]
+> Todos los ejerciciós prácticos están hechos en /src/App.tsx.
+
 # 1. Componentes UI y Funcionales.  
 
 ## ¿Cuál es la diferencia entre un componente UI y un componente funcional en React? 
